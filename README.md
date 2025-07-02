@@ -59,4 +59,5 @@ Open breast_cancer_prediction.ipynb in Colab or Jupyter
 # OR for live input
 Provide 30 comma-separated feature values from a diagnostic report
 
-![Model Output](20250702_2018_Breast Cancer ML Design_simple_compose_01jz5sq4rjf3d81dfn90x3b7kj.png)
+![Breast Cancer Prediction Banner](./20250702_2018_Breast%20Cancer%20ML%20Design_simple_compose_01jz5sq4rjf3d81dfn90x3b7kj.png)
+
